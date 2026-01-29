@@ -1,4 +1,4 @@
-# greenchain-per
+# management-per
 Backend API for GreenChain Food Waste Tracking System
 ## Overview
 
